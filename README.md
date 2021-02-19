@@ -6,6 +6,7 @@ WIP
 
 ## File Structure
 `index.js` contains bot initializiation, and message parsing logic
+
 `commands` contains command modules files
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;`ping` does a ping thing
