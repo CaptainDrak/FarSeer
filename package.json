@@ -1,0 +1,20 @@
+{
+  "name": "farseer",
+  "version": "1.0.0",
+  "description": "FarSeer: A tool for gathering WoW character information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rio",
+    "logs",
+    "blizz"
+  ],
+  "author": "\"CaptainDrak \\ <ccrinbama@gmail.com\\> (https://creedrobbins.dev)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1"
+  }
+}
