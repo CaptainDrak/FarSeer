@@ -13,4 +13,4 @@ WIP
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;`riolookups` looks up raiderio information
 ## Contributing
-Pull requests are welcome. Make them against development. If you have a feature you'd like to add, please feel free to do so.
+Pull requests are welcome. Make them against development. If you have a feature you'd like to see added, please feel free to make a request or create it yourself!
